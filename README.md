@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-<summary>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me! </summary>
+<summary>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </summary>
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=AlexsanderShaw&theme=radical&show_icons=true">
