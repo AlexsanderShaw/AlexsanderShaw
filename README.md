@@ -1,17 +1,30 @@
 ## About Me 👋
-- 🔭 Binary Security researcher
-- 🎰 CTF Player
-- 🎫 [Blog](https://www.v4ler1an.com/) | 
-- ![Twitter](https://img.shields.io/twitter/url?style=social) [Twitter](https://twitter.com/YaoyaoShaw)
-- 🏸 Badminton Player
+- 🔭  Binary Security Researcher
+- 👻  Vulnerability Hunter
+- 🎰  CTF Player
+- 🏸  Badminton Player
+- [![blog](https://img.shields.io/badge/v4ler1an-Blog-blue)](https://www.v4ler1an.com/)
+- [![kanxue URL](https://img.shields.io/badge/%E6%9C%89%E6%AF%92-%E7%9C%8B%E9%9B%AA%E8%AE%BA%E5%9D%9B-lightgrey)](https://bbs.pediy.com/user-home-779730.htm)
+- ![Twitter URL](https://img.shields.io/twitter/url?label=v4ler1an%20%7C%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FYaoyaoShaw)
 
 ## Learning
 
 ![Python](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-c-gray?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-cpp-gray?style=flat-square&logo=c)
-![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat-square&logo=ubuntu)
+![Go](https://img.shields.io/badge/-go-gray?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/-rust-gray?style=flat-square&logo=rust)
+
+![pwn](https://img.shields.io/badge/Pwn-CTF-lightgrey?style=flat-square&logo=pwn)
+![re](https://img.shields.io/badge/Reverse-CTF-lightgrey?style=flat-square&logo=reverse)
+![misc](https://img.shields.io/badge/Misc-CTF-lightgrey?style=flat-square&logo=misc)
+
+
+![kernel](https://img.shields.io/badge/Kernel-Linux-orange?style=flat-square&logo=kernel)
+![fuzz](https://img.shields.io/badge/Fuzzing-Protocl-orange?style=flat-square&logo=fuzz)
+
+
+
 
 ## Motto
 
@@ -34,8 +47,8 @@ Here are some ideas to get you started:
 <details>
   <summary> <b>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me! </b></summary>
 
-
-![github-stats](https://github-readme-stats.vercel.app/api?username=AlexsanderShaw&show_icons=true&line_height=25&hide_title=true)
-
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=AlexsanderShaw&show_icons=true&line_height=25&hide_title=true">
+</p>
 </details>
 
