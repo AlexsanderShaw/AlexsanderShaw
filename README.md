@@ -1,8 +1,17 @@
 ## About Me 👋
 - 🔭 Binary Security researcher
 - 🎰 CTF Player
-- 🎫 [Blog](https://www.v4ler1an.com/) | [Twitter](https://twitter.com/YaoyaoShaw)
+- 🎫 [Blog](https://www.v4ler1an.com/) | 
+- ![Twitter](https://img.shields.io/twitter/url?style=social) [Twitter](https://twitter.com/YaoyaoShaw)
 - 🏸 Badminton Player
+
+## Learning
+
+![Python](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-cpp-gray?style=flat-square&logo=c)
+![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat-square&logo=ubuntu)
 
 ## Motto
 
