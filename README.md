@@ -5,7 +5,7 @@
 - 🏸  Badminton Player
 - [![blog](https://img.shields.io/badge/v4ler1an-Blog-blue)](https://www.v4ler1an.com/)
 - [![kanxue URL](https://img.shields.io/badge/%E6%9C%89%E6%AF%92-%E7%9C%8B%E9%9B%AA%E8%AE%BA%E5%9D%9B-lightgrey)](https://bbs.pediy.com/user-home-779730.htm)
-- ![Twitter URL](https://img.shields.io/twitter/url?label=v4ler1an%20%7C%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FYaoyaoShaw)
+- [![Twitter URL](https://img.shields.io/twitter/url?label=v4ler1an%20%7C%20Twitter&style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/YaoyaoShaw)
 
 ## Learning
 
@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary> <b>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me! </b></summary>
+<summary>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me! </summary>
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=AlexsanderShaw&show_icons=true&line_height=25&hide_title=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=AlexsanderShaw&theme=radical&show_icons=true">
 </p>
 </details>
 
