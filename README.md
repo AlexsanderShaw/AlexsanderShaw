@@ -21,7 +21,7 @@
 
 
 ![kernel](https://img.shields.io/badge/Kernel-Linux-orange?style=flat-square&logo=kernel)
-![fuzz](https://img.shields.io/badge/Fuzzing-Protocl-orange?style=flat-square&logo=fuzz)
+![fuzz](https://img.shields.io/badge/Fuzzing-Protocol-orange?style=flat-square&logo=fuzz)
 
 
 
