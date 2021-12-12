@@ -7,7 +7,7 @@
 - [![kanxue URL](https://img.shields.io/badge/%E6%9C%89%E6%AF%92-%E7%9C%8B%E9%9B%AA%E8%AE%BA%E5%9D%9B-lightgrey)](https://bbs.pediy.com/user-home-779730.htm)
 - [![Twitter URL](https://img.shields.io/twitter/url?label=v4ler1an%20%7C%20Twitter&style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/YaoyaoShaw)
 
-## Learning
+## Working on
 
 ![Python](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-c-gray?style=flat-square&logo=c)
